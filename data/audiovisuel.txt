@@ -1,0 +1,30 @@
+# Audiovisuel : organismes et sociétés
+emoji: 🎬
+> Sigles, sociétés publiques, privées et cinéma
+
+## [sigles] Les sigles à retenir
+INA | Institut national de l'audiovisuel | Conserve les archives audiovisuelles | 📼 Archives
+SACEM | Société des auteurs, compositeurs et éditeurs de musique | Gère les droits des œuvres musicales | 🎵 Musique
+TDF | TéléDiffusion de France | Assure la diffusion technique des contenus audiovisuels | 📡 Diffusion
+GUSO | Guichet unique du spectacle occasionnel | Simplifie l'embauche et la déclaration des artistes occasionnels | 🤝 Emploi
+ARCOM | Autorité de régulation de la communication audiovisuelle et numérique | Régule et contrôle le secteur audiovisuel et numérique | ⚖️ Contrôle
+
+## [phrase] Phrase à retenir
+INA archive, SACEM protège la musique, TDF diffuse, GUSO embauche et ARCOM contrôle.
+
+## [groupes] Les sociétés
+Publiques: Radio France, France 2, France 3, France 5, FranceTV Info, INA
+Privées: TF1, M6, Canal+, RTL, Europe 1, RMC, TDF
+Grands acteurs du cinéma: Gaumont, Pathé, UGC | Ils produisent et distribuent des films.
+Prestataires de services: | Elles prennent en charge une partie de la production ou de la fabrication des émissions et des programmes de télévision.
+Coproductrices: | Elles participent ensemble à la production d'une œuvre pour la télévision ou le cinéma.
+
+## [recap] À retenir en priorité
+INA = archives
+SACEM = droits musicaux
+TDF = diffusion
+GUSO = emploi occasionnel
+ARCOM = régulation
+Cinéma = Gaumont, Pathé, UGC
+Sociétés privées = TF1, M6, Canal+
+Sociétés publiques = Radio France, France 2, France 3, France 5
